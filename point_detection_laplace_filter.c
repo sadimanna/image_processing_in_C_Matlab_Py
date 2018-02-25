@@ -1,6 +1,4 @@
 /*
- * lena_pd.c
- *
  *  Created on: Sun Feb 25 2018 14.23
  *      Author: sadimanna
  */
